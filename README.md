@@ -2,6 +2,11 @@
 AVStudio was developed to simplify the work that audio and video persons have, managing media in congregation meetings in addition with administering Zoom meetings. 
 It is so designed that almost every function can be achieved with one click. And also newbies can master it. 
 
+- Prerequisites
+  - NO installation of Zoom client required
+  - NO installation of a browser required
+  - NO installation of JW Library required
+
 - Media
   -  show on a second screen
   -  from current Watchtower Articles and Midweek Meeting Workbooks in every available language
