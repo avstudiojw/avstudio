@@ -2,8 +2,6 @@
 AVStudio's AV features like playing media and showing them on a second screen can be used without joining a Zoom meeting. 
 But AVStudios full potential is leveraged when combined with Zoom.
 
-![image](https://github.com/avstudiojw/avstudio/assets/166111109/3f606b53-d68c-4647-9137-53cc06490212)
-
 ### Basic
 - mute/unmute self
 - video on/off self
@@ -36,11 +34,11 @@ But AVStudios full potential is leveraged when combined with Zoom.
 - receive and send messages from and to other participants
 
 ### Views
+- change how tiles are beeing displayed how and whenevery you want with one click
 - active speaker view
 - spotlighted users view (automatic activation)
 - screen share view (automatic activation)
-- gallery view
-  - popup actions
+- gallery view with popup actions  
 - second full screen window with active speaker shown on second screen
 
 
