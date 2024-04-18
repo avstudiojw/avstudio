@@ -3,13 +3,15 @@ With AVStudio you get easily access to media (songs, images, videos, streams) th
 
 With one click, items will be shown on the second screen and automatically shared within Zoom.
 
+*** cool image ***
+
 - Watchtower
   -   current study article
   -   select study article from another week
   -   original website
   -   article (click on songs, images or videos to share)
   -   media (songs, images, videos)
-  -   custom playlist, add songs and images used for the talk
+  -   custom playlist (add songs and images used for the meeting e.g. talk)
   -   automatic downloads
 - Workbooks
   -   current week workbook
@@ -17,7 +19,7 @@ With one click, items will be shown on the second screen and automatically share
   -   original website
   -   article (click on songs, images or videos to share)
   -   media (songs, images, videos)
-  -   custom playlist, add videos e.g. JW Broadcasting updates
+  -   custom playlist (add videos e.g. JW Broadcasting updates)
   -   automatic downloads
 - Playlists
   - create new playlist
@@ -40,20 +42,25 @@ With one click, items will be shown on the second screen and automatically share
 
 
 ## ![image](https://github.com/avstudiojw/avstudio/assets/166111109/4b788f81-8932-4946-b313-4ec5200a32f1) Watchtower magazines
-### show the current Watchtower article studied this week from jw.org website 
-no interaction
+### show the current Watchtower article studied this week from jw.org website
+no interaction 
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/3e24083e-4dc2-4789-ad3e-d8b44789d7f3)
 
 ### ... just the formated article
-click on songs, images or videos to share with second screen and within Zoom
+click on songs, images or videos to share with second screen and within Zoom 
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/c7a2d25f-d526-4597-b867-ad929b21c6a8)
 
 ### Watchtower media with custom playlist
-automatically attached playlist to the study article (not visible from other playlists)
+automatically attached playlist to the study article (not visible from other playlists) 
 Songs from jw.org, local images, or other media can be attachted 
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/044dc174-106f-4b3d-b99c-3e39dbed5cc4)
 
 ### media downloads (starting automatically)
+Downloads will start automatically, but can be canceled and later resumed
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/e7cdb7c9-7f83-4551-8f8a-e30f918b3bf4)
 
 ### choose different Watchtower article 
