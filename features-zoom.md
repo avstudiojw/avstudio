@@ -17,6 +17,7 @@ But AVStudios full potential is leveraged when combined with Zoom.
 
 - Participants Pane
   - search for participants
+  - automatic participant count (real participants not tiles)
   - ordered by categories
     -  waiting room
     -  spotlighted
@@ -43,7 +44,24 @@ But AVStudios full potential is leveraged when combined with Zoom.
 
 
 ### Join a Meeting
-Enter 
-Predefined meetings can be added to the selection via Settings.
+Enter your Meeting Id, User Name and Password to join a meeting
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/70240200-6d69-43e5-b04e-db278c0e7186)
+
+### Add Meeting
+If you have recurring meetings, you can add a meeting to your settings. It than will be shown in your combobox.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/cff4c9f0-fd9d-4d02-b7c9-d1955eccb7b0)
+
+### YOU NEED CO-HOST privilages
+With AVStudio you can not log in as host and start a meeting. 
+You can only share media, and administring participants when having Co-Host privilages.
+
+!IMPORTANT 
+If you use AVStudio on the same computer as the host, the host has to "leave to computer audio"!
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/16107ad0-b0df-4c19-9b7e-0fee423287b6)
+
+
+
+
