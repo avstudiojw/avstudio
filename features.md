@@ -59,7 +59,7 @@ Songs from jw.org, local images, or other media can be attachted
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/044dc174-106f-4b3d-b99c-3e39dbed5cc4)
 
 ### media downloads (starting automatically)
-Downloads will start automatically, but can be canceled and later resumed
+downloads will start automatically, but can be canceled and later resumed
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/e7cdb7c9-7f83-4551-8f8a-e30f918b3bf4)
 
@@ -74,33 +74,71 @@ Downloads will start automatically, but can be canceled and later resumed
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/8cb4bbfa-53f0-4bc5-8f42-f4d3d9257ad2)
 
 ### workbook media with custom playlist
+automatically attached playlist to the midweek meeting(not visible from other playlists) 
+local files or videos from JW Browadcasting can be attachted 
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/c3acc122-a756-419f-8b41-15942e55ac9a)
 
 ### automatic downloads
+Downloads will start automatically, but can be canceled and later resumed.
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/9c92bdb1-51a0-4ae9-a50a-d9526b61645f)
 
 ## Playlist
 To each Watchtower article and each meeting workbook, there is a playlist already atomatically connected. 
 But you can also create your own named playlists.
 
-### From local Files
+### from local files
 (files are copied, so files don't get lost after disconnected from USB-drives)
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/b8e6b7d5-3b15-4c17-babc-5f671776a4fb)
 
-### From Songs
+### from songs
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/01c07196-174d-4b05-a961-e6181437235e)
 
-### From Videos 
+### from videos 
 like Broadcasting... 
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/a02e2272-b458-47fb-b49d-63f949b37e71)
 
 ### other playlists
 
-# Webbrowser
-## jw.org as start page (according to your language settings) 
+## Webbrowser
+### jw.org as start page 
+jw.org/{language} is the start page (according to your language settings) 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/f7718217-b8ec-499f-a4e5-fca63bd2c977)
 
-## navigate to other pages
+### navigate to other pages
+You can navigate to any other website.
+
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/bc2ef0b7-b7e7-4130-a204-0e46cdd5c886)
+
+### images
+Click on images (figures) to share on second screen and within Zoom.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/26829398-2adb-4e9e-a4f7-3726df192da7)
+
+
+### videos
+Full screen videos to share on second screen and within Zoom.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/c834a60e-10d3-4b0e-bcdc-12858a4e898c)
+
+### favorites
+(comming soon)
+
+## Other features (settings)
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/a032735b-2a99-4470-abdc-8cf88bdce011)
+
+### Languages
+Choose your languages from jw.org for your publications (wt, mwb, songs, videos) used in AVStudio.
+
+### Show media on a second screen
+Media will be shown automatically on a second screen if available. Otherwise media is shown on the first screen within AVStudio.
+Turn off the second screen is been usefull, when using AVStudio from your laptop.
+
+### Background
+Show a background image or text (html) on your second screen, when no media item has been selected.
+black screen is the default. Usefull to display the yeartext.
 
 
