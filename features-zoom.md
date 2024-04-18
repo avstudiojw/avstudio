@@ -10,12 +10,12 @@ But AVStudios full potential is leveraged when combined with Zoom.
 
 ### Toast Notifications in vibrant colors with quick actions
 - when AVStudio has no co-host privilages
-- when someone entered the waiting room, QUICK ACTION: admit
+- when someone entered the waiting room, QUICK ACTION-> admit
 - active speaker changed
-- spotlighted users changed, QUICK ACTION: spotlight off
+- spotlighted users changed, QUICK ACTION-> spotlight off
 - when chat message has arrived
-- when some user is unmuted, QUICK ACTION: mute / mute all
-- when some user raised hand, QUICK ACTION: 
+- when some user is unmuted, QUICK ACTION-> mute / mute all
+- when some user raised hand, QUICK ACTION-> lower hand 
 
 ### Participants Pane
 - search for participants
@@ -25,9 +25,24 @@ But AVStudios full potential is leveraged when combined with Zoom.
   -  unmuted
   -  raised hand
   -  participants
+-  actions
+  -  mute/unmute
+  -  video on/off
+  -  rename
+  -  admit, put to waiting room
+  -  spotlight on/off
  
 ### Chat Pane
 - receive and send messages from and to other participants
+
+### Views
+- active speaker view
+- spotlighted users view (automatic activation)
+- screen share view (automatic activation)
+- gallery view
+  - popup actions
+- second full screen window with active speaker shown on second screen
+
 
 ### Join a Meeting
 Enter 
