@@ -108,3 +108,29 @@ The chat pane will automatically activated when a message has been received.
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/122f80c2-17b5-458d-a01b-26bc5d0a259f)
 
+## Participants
+With AVStudio you can administring the participants in your Zoom meeting
+
+### Participants Pane
+The Participants Pane can be activated by the button User in the control bar.
+
+### Categories
+
+
+### Waiting Room
+If someone enters the waiting room, a toast notification will appear. You are now are able to use a quick action to admit the participant to the meeting.
+
+You also will see a category apear in the participants pane, and will also be able to admit the participant or admit all waiting in the room to the meeting. 
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/2915e8c4-1ff1-4df8-853f-aebcd7c33a9a)
+
+### Automatic admit Participants
+Under meeting setting you have the option to automatic admit all to the meeting.
+
+NEW: You can define a whitelist, with all named (wildcarded) participant name that should be admitted automatically.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/19c30eb5-bfa0-4d92-ab29-a42b0fcf5f36)
+
+
+
+
