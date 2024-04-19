@@ -2,6 +2,8 @@
 AVStudio was developed to simplify the work that the audio and video desk have, managing media in congregation meetings in addition with administering Zoom meetings. 
 It is so designed that almost every function can be achieved with one click. And also newly asigned brothers and sisters can master it. 
 
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/466cdc9d-8692-4b47-9208-ecfa17cd3145)
+
 - Prerequisites
   - NO installation of Zoom client required
   - NO installation of a browser required
