@@ -114,8 +114,17 @@ With AVStudio you can administring the participants in your Zoom meeting
 ### Participants Pane
 The Participants Pane can be activated by the button User in the control bar.
 
-### Categories
+Unlike the Zoom client, participants are grouped by categories.
+- Waiting Room
+- Spotlighted
+- Unmuted
+- Raised Hand
+- Participants (all, joined)
 
+Within each category you have quick action, like mute/mute all in the "Unmuted" category.
+
+Participants can appear multiple times
+You also can filter Participants in the search bar.
 
 ### Waiting Room
 If someone enters the waiting room, a toast notification will appear. You are now are able to use a quick action to admit the participant to the meeting.
@@ -131,6 +140,22 @@ NEW: You can define a whitelist, with all named (wildcarded) participant name th
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/19c30eb5-bfa0-4d92-ab29-a42b0fcf5f36)
 
+### Unmuted Participants
+If someone unmutes itsself, it will be noticed by a toast notification als well as a category in the participants pane. 
+You then have quick actions to unmute those participants.
 
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/1b5d1a61-d29a-4f75-a190-188a93a7e5aa)
 
+### Raised Hand
+If someone raised his hand, it will be noticed by a toast notification. You then have quick actions to lower its hand.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/77869c3c-d026-4acf-8cf8-7cb7f5a0d246)
+
+### Spotlight
+You can spotlight multiple participants. They will appear as the active speaker. Because no one else can speak besides the spotlighted ones.
+A toast notification will popup. You then have a quick action to turn the participants spotlight off. Additonally a new category will apear in the participants pane.
+
+The speakers view will switch and will show the spotlighted participants.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/e41c9061-a65c-44bc-a9ff-62b0192f9363)
 
