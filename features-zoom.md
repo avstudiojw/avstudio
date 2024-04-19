@@ -2,7 +2,7 @@
 AVStudio's AV features like playing media and showing them on a second screen can be used without joining a Zoom meeting. 
 But AVStudios full potential is leveraged when combined with Zoom.
 
-![image](https://github.com/avstudiojw/avstudio/assets/166111109/60a2d0c6-e031-4a57-ace5-811a99dc86ef)
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/cae2f8b7-5802-4e3c-baaa-2c8ebff8867b)
 
 - Basic
   - mute/unmute self
