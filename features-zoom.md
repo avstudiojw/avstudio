@@ -68,7 +68,7 @@ If you use AVStudio on the same computer as the host, the host has to "leave to 
 
 ### Control Bar
 With the control bar you have direct access to all the main functions of AVStudio.
-The buttons are big and colored so your eys can easily see if yor audio or video is on or off.
+The buttons are big and colored so your eyes can easily see if yor audio or video is on or off.
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/92d0627a-0ec2-4803-83ab-1f7e2442b8dd)
 
@@ -158,4 +158,21 @@ A toast notification will popup. You then have a quick action to turn the partic
 The speakers view will switch and will show the spotlighted participants.
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/e41c9061-a65c-44bc-a9ff-62b0192f9363)
+
+### Participants
+#### Automatic Participant Count
+Participants are now counted by numbers not by tiles!
+Any apearing number up to two digits but maximum 9 will be added to the total participants count.
+Examples
+- Smith -> 1
+- (2) Johnson -> 2
+- Brown -4- -> 4
+
+#### Other Action
+Other actions regarding participants are available via context menu.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/e201e91a-ad62-47c9-95f5-8278a9d8a000)
+
+
+
 
