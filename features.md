@@ -48,7 +48,7 @@ With one click, items will be shown on the second screen and automatically share
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/3e24083e-4dc2-4789-ad3e-d8b44789d7f3)
 
 ### Show the current Watchtower article (interactive)
-Click on songs, images or videos to share with second screen and within Zoom. 
+Click on songs, images or videos to share show on second screen and share within Zoom. 
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/c7a2d25f-d526-4597-b867-ad929b21c6a8)
 
