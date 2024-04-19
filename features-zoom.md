@@ -15,7 +15,7 @@ But AVStudios full potential is leveraged when combined with Zoom.
   - spotlighted users changed, QUICK ACTION-> spotlight off
   - chat message has arrived
   - someone is unmuted, QUICK ACTION-> mute / mute all
-  - someone raised hand, QUICK ACTION-> lower hand 
+  - someone has raised hand, QUICK ACTION-> lower hand 
 
 - Participants Pane
   - search for participants
@@ -25,7 +25,7 @@ But AVStudios full potential is leveraged when combined with Zoom.
     -  spotlighted
     -  unmuted
     -  raised hand
-    -  participants
+    -  all participants (joined)
   - actions
     -  mute/unmute
     -  video on/off
@@ -51,13 +51,13 @@ Enter your Meeting Id, User Name and Password to join a meeting
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/70240200-6d69-43e5-b04e-db278c0e7186)
 
 ### Add Meeting
-If you have recurring meetings, you can add a meeting to your settings. It than will be shown in your combobox.
+If you have recurring meetings, you can add a meeting to your settings. It then will be shown in your combobox.
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/cff4c9f0-fd9d-4d02-b7c9-d1955eccb7b0)
 
 ### YOU NEED CO-HOST privilages
 With AVStudio you can not log in as host and start a meeting. 
-You can only share media, and administring participants when having Co-Host privilages.
+You can only share media, and administering participants when having Co-Host privilages.
 
 A toast notification is shown, if you have not such privilages.
 
@@ -73,14 +73,14 @@ The buttons are big and colored so your eyes can easily see if yor audio or vide
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/92d0627a-0ec2-4803-83ab-1f7e2442b8dd)
 
 ### Screen Sharing
-If any media is anywhere clicked in AVStudio, it will automaticly start screen sharing. No further action required.
+If any media is anywhere clicked in AVStudio, it will automatically start screen sharing. No further action required.
 - images do not share computer sound
 - songs and videos do share computer sound
 
 The View switches to the screen share view.
-You can switch to active speaker or gallery view anytime and come back to screen share view.
+You can switch to the active speaker or gallery view anytime and come back to the screen share view.
 
-A toast notification will popup with text "... is sharing screen". This is helpfull if someone else is sharing his screen. It either way you can stop your or his screen sharing by clicking the quick action: stop.
+A toast notification will popup with text "... is sharing screen". This is helpfull if someone else is sharing its screen. It either way you can stop your or his screen sharing by clicking the quick action: stop.
 
 The button "share" in the control bar turns green.
 You can than stop the screen sharing by clicking the button. The media does not stop, though. Only the screen share within Zoom stops!
@@ -98,7 +98,7 @@ You can switch views back and forth
 
 ### Maximize Zoom in a seperate Window
 You can maximize the Zoom active speaker view in a seperate window independent from your Zoom panel.
-The window will show the active speaker or other participants when spotlighted. If someone shares its screen it will then show the shared screen.
+The window will show the active speaker or other participants when spotlighted. If someone shares its screen it then will show the shared screen.
 
 ### Chat
 A toast notification will popup if a message as been sent. It will automatically disappear after 1 minute.
@@ -109,7 +109,7 @@ The chat pane will automatically activated when a message has been received.
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/122f80c2-17b5-458d-a01b-26bc5d0a259f)
 
 ## Participants
-With AVStudio you can administring the participants in your Zoom meeting
+With AVStudio you can administering the participants in your Zoom meeting
 
 ### Participants Pane
 The Participants Pane can be activated by the button User in the control bar.
@@ -127,9 +127,9 @@ Participants can appear multiple times
 You also can filter Participants in the search bar.
 
 ### Waiting Room
-If someone enters the waiting room, a toast notification will appear. You are now are able to use a quick action to admit the participant to the meeting.
+If someone enters the waiting room, a toast notification will appear. You are now be able to use a quick action to admit the participant to the meeting.
 
-You also will see a category apear in the participants pane, and will also be able to admit the participant or admit all waiting in the room to the meeting. 
+You also will see a category apear in the participants pane, and will also be able to admit the participant or admit all waiting in the waiting room to the meeting. 
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/2915e8c4-1ff1-4df8-853f-aebcd7c33a9a)
 
@@ -152,7 +152,7 @@ If someone raised his hand, it will be noticed by a toast notification. You then
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/77869c3c-d026-4acf-8cf8-7cb7f5a0d246)
 
 ### Spotlight
-You can spotlight multiple participants. They will appear as the active speaker. Because no one else can speak besides the spotlighted ones.
+You can spotlight multiple participants. Because no one else can speak besides the spotlighted ones, they will appear as the active speaker.
 A toast notification will popup. You then have a quick action to turn the participants spotlight off. Additonally a new category will apear in the participants pane.
 
 The speakers view will switch and will show the spotlighted participants.
