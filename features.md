@@ -3,7 +3,7 @@ With AVStudio you get easily access to media (songs, images, videos, streams) th
 
 With one click, items will be shown on the second screen and automatically shared within Zoom.
 
-*** cool image ***
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/3686b4a2-882e-44e5-b8c4-881956351fc5)
 
 - Watchtower
   -   current study article
