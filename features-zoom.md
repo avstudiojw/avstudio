@@ -85,6 +85,26 @@ A toast notification will popup with text "... is sharing screen". This is helpf
 The button "share" in the control bar turns green.
 You can than stop the screen sharing by clicking the button. The media does not stop, though. Only the screen share within Zoom stops!
 
-
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/7f5eb48a-5f21-4c70-b0b1-d9b2dd1cfd3c)
+
+### Menu Bar
+You can switch views back and forth
+- Active Speaker or spotlighted participants
+- Gallery
+- Screen Share (only available when someone is sharing its screen)
+- maximize Zoom in a seperate independent window
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/a2e6421c-fa3f-493e-8714-9972567ddab3)
+
+### Maximize Zoom in a seperate Window
+You can maximize the Zoom active speaker view in a seperate window independent from your Zoom panel.
+The window will show the active speaker or other participants when spotlighted. If someone shares its screen it will then show the shared screen.
+
+### Chat
+A toast notification will popup if a message as been sent. It will automatically disappear after 1 minute.
+
+Chat messages can be send via the chat pane. It can be activated by the control bar.
+The chat pane will automatically activated when a message has been received.
+
+![image](https://github.com/avstudiojw/avstudio/assets/166111109/122f80c2-17b5-458d-a01b-26bc5d0a259f)
 
