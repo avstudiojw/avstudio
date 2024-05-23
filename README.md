@@ -1,6 +1,6 @@
 # What is AVStudio?
-AVStudio was developed to simplify the work that the audio and video desk have, managing media in congregation meetings in addition with administering Zoom meetings. 
-It is so designed that almost every function can be viewed with one eye and achieved with one click. And also newly assigned brothers and sisters can master it. 
+AVStudio has been developed to simplify the work of the Audio and Video Desk, managing media in JW congregation meetings in addition with administering Zoom meetings. 
+The app is designed that almost every function can be viewed with one eye and handled with one click. And also newly assigned brothers and sisters can master it. 
 
 ![image](https://github.com/avstudiojw/avstudio/assets/166111109/466cdc9d-8692-4b47-9208-ecfa17cd3145)
 
